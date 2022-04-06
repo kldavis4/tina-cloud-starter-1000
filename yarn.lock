@@ -1282,16 +1282,7 @@
   dependencies:
     tslib "~2.3.0"
 
-"@graphql-tools/relay-operation-optimizer@^6.3.7":
-  version "6.4.1"
-  resolved "https://registry.yarnpkg.com/@graphql-tools/relay-operation-optimizer/-/relay-operation-optimizer-6.4.1.tgz#28572444e2c00850c889a84472f3cc7405dc1ad8"
-  integrity sha512-2b9D5L+31sIBnvmcmIW5tfvNUV+nJFtbHpUyarTRDmFT6EZ2cXo4WZMm9XJcHQD/Z5qvMXfPHxzQ3/JUs4xI+w==
-  dependencies:
-    "@graphql-tools/utils" "^8.5.1"
-    relay-compiler "12.0.0"
-    tslib "~2.3.0"
-
-"@graphql-tools/relay-operation-optimizer@^6.4.1":
+"@graphql-tools/relay-operation-optimizer@^6.3.7", "@graphql-tools/relay-operation-optimizer@^6.4.1":
   version "6.4.2"
   resolved "https://registry.yarnpkg.com/@graphql-tools/relay-operation-optimizer/-/relay-operation-optimizer-6.4.2.tgz#18e20fed783f5de3081ce90d3b4d82047ea8d46b"
   integrity sha512-pc/cliYO0veVbMyM5H54lZzQh+9SxnjawqR623rc+jPuY9JUQcuIKkZzM1+E5blbtr4dvh7Bi4uzf3rJ0sxG0Q==
@@ -1349,12 +1340,7 @@
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.2.1.tgz#9551142a1980503752536b5050fd99f4a7f13b17"
   integrity sha512-gfta+H8aziZsm8pZa0vj04KO6biEiisppNgA1kbJvFrrWu9Vm7eaUEy76DIxsuTaWvti5fkJVhllWc6ZTE+Mdw==
 
-"@headlessui/react@^1.4.1":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.4.2.tgz#87e264f190dbebbf8dfdd900530da973dad24576"
-  integrity sha512-N8tv7kLhg9qGKBkVdtg572BvKvWhmiudmeEpOCyNwzOsZHCXBtl8AazGikIfUS+vBoub20Fse3BjawXDVPPdug==
-
-"@headlessui/react@^1.4.2":
+"@headlessui/react@^1.4.1", "@headlessui/react@^1.4.2":
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.4.3.tgz#f77c6bb5cb4a614a5d730fb880cab502d48abf37"
   integrity sha512-n2IQkaaw0aAAlQS5MEXsM4uRK+w18CrM72EqnGRl/UBOQeQajad8oiKXR9Nk15jOzTFQjpxzrZMf1NxHidFBiw==
@@ -10182,10 +10168,10 @@ timers-browserify@2.0.12:
   dependencies:
     setimmediate "^1.0.4"
 
-tinacms@^0.66.10:
-  version "0.66.10"
-  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-0.66.10.tgz#8ac30142f6accf43af98e6c7c4055cee0ed50851"
-  integrity sha512-jxn6p0nLlz9ZkhUdm7x1kmszZnEd4FjSCYashcS9SeAsh1bX4UkQkHQZ3NximtopveZuSb6DpSmzKCB6+FOnXg==
+tinacms@^0.67.0:
+  version "0.67.0"
+  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-0.67.0.tgz#c7bc63b76e85cdb19e4c08f4e18752f07a30122e"
+  integrity sha512-AtGszSsmmewVeWG39kHHN/9qWicBQ63sRMT5pUoWzdp6FAvqaRytj04Itgo0smqSI8TuNQlmMthzLzQOUhv+0g==
   dependencies:
     "@graphql-tools/relay-operation-optimizer" "^6.4.1"
     "@headlessui/react" "^1.4.1"
